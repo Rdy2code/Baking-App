@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <!--Error messages-->
+    <string name="error_message_network">
+        No response from network. Please check your internet connection</string>
+
+    <!-- Fragment Ingredients -->
+    <string name="title_ingredients">Ingredients:\n\n</string>
+
+    <!--Fragment Video-->
+    <string name="no_media_available">No Media Available for This Step</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <!--WidgetProvider Class-->
+    <string name="placeholder_recipe_name">Recipe Name</string>
+    <string name="heading_ingredients">Ingredients</string>
+    <string name="accessibility_recipe_icon">Cartoon image of a turkey on a platter</string>
+
+    <!--Button text-->
+    <string name="button_next">Next</string>
+</resources>
